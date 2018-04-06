@@ -1,6 +1,6 @@
-Songbook for use with fortune.
+songs and poems for use with fortune.
 Makes a nice screensaver with xscreensaver hacks like phosphor.
 
 Usage:
-	fortune songbook
+	fortune songs
 
