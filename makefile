@@ -11,5 +11,5 @@ all: $(DAT)
 clean:
 	rm $(DAT)
 
-toc: $(IN)
+toc:
 	@perl -ne 'if ($$. == 1) {chomp; print} if ($$. == 2) {print " $$_"} next if /^$$/; if (/\%/) {$$v=1; next;}; if ($$v == 2) {print " $$_"; $$v=0} if ($$v == 1) {chomp; print; $$v++}' $(IN) | sort | cat -n
