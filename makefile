@@ -1,4 +1,4 @@
-SRC=songs poems
+SRC=songs poems fables
 DAT=$(SRC:=.dat)
 
 .phony: clean toc
