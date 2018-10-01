@@ -1,6 +1,6 @@
 songs and poems for use with fortune.
 
-Makes a nice screensaver with xscreensaver hacks like phosphor.
+Makes a nice screensaver with [xscreensaver hacks](https://www.jwz.org/xscreensaver/screenshots/) like phosphor.
 
 Hacks working well with those: `fliptext`, `starwars`, `fontglide`, `phosphor`.
 
