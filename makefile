@@ -1,4 +1,4 @@
-SRC=songs poems fables
+SRC=songs poems fables oblique_strategies
 DAT=$(SRC:=.dat)
 
 .phony: clean toc
